@@ -1,0 +1,13 @@
+@media (max-width: 63.9375em) {
+   
+}
+
+/* mobile */
+@media (max-width: 46.1875em) {
+    #header {
+        overflow: hidden;
+    }
+   .menu-mobi {
+        display: block;
+   }
+}
